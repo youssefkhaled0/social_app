@@ -18,9 +18,9 @@ A simple React Native social app built with JavaScript, allowing users to view p
 - JavaScript (ES6+)
 - Flexbox layout for responsiveness
 
-## 📸 Screenshots
+## Screenshots
 
 
 
-
+## time taken
 it took 6 hours to build this project
